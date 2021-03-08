@@ -5,6 +5,7 @@
 #include "WindowFrameService.h"
 #include "Common/KeyboardShortcutManager.h"
 #include "CalcViewModel/Common/TraceLogger.h"
+// I have edited this file
 
 using namespace concurrency;
 using namespace Platform;
