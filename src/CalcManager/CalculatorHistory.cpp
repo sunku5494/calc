@@ -9,6 +9,7 @@ using namespace CalculationManager;
 
 namespace
 {
+    int a = 10;
     static wstring GetGeneratedExpression(const vector<pair<wstring, int>>& tokens)
     {
         wstring expression;
