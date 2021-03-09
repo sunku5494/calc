@@ -81,6 +81,7 @@ namespace CalculatorApp
         LoggingFields fields{};
         PopulateAppInfo(fields);
         LogAppLifecycleEvent(L"ModernAppLaunch_VisibleComplete", fields);
+	return;
     }
 
     void AppLifecycleLogger::ResumeUIResponsive() const
@@ -91,6 +92,7 @@ namespace CalculatorApp
         LoggingFields fields{};
         PopulateAppInfo(fields);
         LogAppLifecycleEvent(L"ModernAppResume_UIResponsive", fields);
+	return;
     }
 
     void AppLifecycleLogger::ResumeVisibleComplete() const
@@ -101,6 +103,7 @@ namespace CalculatorApp
         LoggingFields fields{};
         PopulateAppInfo(fields);
         LogAppLifecycleEvent(L"ModernAppResume_VisibleComplete", fields);
+	return;
     }
 
     void AppLifecycleLogger::ResizeUIResponsive() const
