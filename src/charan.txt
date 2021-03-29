@@ -1,5 +1,5 @@
 Hi,
-	I am learning git log multiple options.  
+	I am learning git log multiple options.  and doing hands on.
 
 Regards,
 Charan.
