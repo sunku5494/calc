@@ -5,7 +5,7 @@
 #include "CalculationResult.h"
 #include "CalculationResultAutomationPeer.h"
 #include "CalcViewModel/Common/LocalizationSettings.h"
-
+// Learn Calculator src code
 using namespace CalculatorApp;
 using namespace CalculatorApp::Controls;
 using namespace CalculatorApp::Common;

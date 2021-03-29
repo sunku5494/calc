@@ -62,6 +62,7 @@ void AboutFlyout::SetVersionString()
 void AboutFlyout::SetDefaultFocus()
 {
     AboutFlyoutEULA->Focus(::FocusState::Programmatic);
+    return;
 }
 
 void AboutFlyout::InitializeContributeTextBlock()
