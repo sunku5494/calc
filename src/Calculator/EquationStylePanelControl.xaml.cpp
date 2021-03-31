@@ -21,7 +21,7 @@ using namespace Windows::UI::Xaml::Media;
 using namespace Windows::UI::Xaml::Navigation;
 using namespace Windows::UI::Xaml::Shapes;
 using namespace GraphControl;
-
+//CSCvj90534 - Adding comment 
 DEPENDENCY_PROPERTY_INITIALIZATION(EquationStylePanelControl, SelectedColor);
 DEPENDENCY_PROPERTY_INITIALIZATION(EquationStylePanelControl, SelectedStyle);
 DEPENDENCY_PROPERTY_INITIALIZATION(EquationStylePanelControl, EnableLineStylePicker);
