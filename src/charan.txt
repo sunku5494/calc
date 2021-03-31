@@ -1,5 +1,7 @@
 Hi,
 	I am learning git log multiple options.  and doing hands on.
+	Exploring the merge command and to compare the diff between two branches.
+
 
 Regards,
 Charan.
