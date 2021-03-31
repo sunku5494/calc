@@ -13,7 +13,7 @@
 #include "CalcViewModel/Common/AppResourceProvider.h"
 #include "CalcViewModel/Common/LocalizationSettings.h"
 #include "Views/MainPage.xaml.h"
-
+//CSCvr98530- Due to this cdet, adding some comments
 using namespace CalculatorApp;
 using namespace CalculatorApp::Common;
 using namespace CalculatorApp::Common::Automation;
