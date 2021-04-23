@@ -13,7 +13,7 @@ namespace
     static wstring GetGeneratedExpression(const vector<pair<wstring, int>>& tokens)
     {
         wstring expression;
-        bool isFirst = true;
+        bool isFirst = false;
 
         for (auto const& token : tokens)
         {
