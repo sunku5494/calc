@@ -14,6 +14,8 @@ namespace CalculatorUITestFramework
 {
     public class HistoryPanel
     {
+
+	//random commits in master while mixed branch is active
         public WindowsElement HistoryButton => this.session.TryFindElementByAccessibilityId("HistoryButton");
         public WindowsElement ListViewItem => this.session.FindElementByClassName("ListViewItem");
         public WindowsElement ClearHistoryButton => this.session.TryFindElementByAccessibilityId("ClearHistory");
