@@ -3,7 +3,6 @@
 Windows Calculator is a [C++/CX][C++/CX] application, built for the Universal Windows Platform ([UWP][What is UWP?]).
 Calculator uses the [XAML][XAML Overview] UI framework, and the project follows the Model-View-ViewModel ([MVVM][MVVM])
 design pattern. This document discusses each of the layers and how they are related to the three Visual Studio projects
-that build into the final Calculator application.
 
 --------------------
 ## Table of Contents
