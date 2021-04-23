@@ -8,7 +8,6 @@
     "EnableAttributeReordering": true,
     "AttributeOrderingRuleGroups": [
         "x:Class*",
-        "xmlns, xmlns:x",
         "xmlns:*",
         "Grid.Row, Grid.RowSpan, Grid.Column, Grid.ColumnSpan, Canvas.Left, Canvas.Top, Canvas.Right, Canvas.Bottom",
         "Width, Height, MinWidth, MinHeight, MaxWidth, MaxHeight",
